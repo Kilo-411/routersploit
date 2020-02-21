@@ -33,7 +33,7 @@ Optional:
 
 ```
 apt-get install python3-pip
-git clone https://www.github.com/threat9/routersploit
+git clone https://www.github.com/kilo-411/routersploit
 cd routersploit
 python3 -m pip install -r requirements.txt
 python3 rsf.py
@@ -51,7 +51,7 @@ python3 rsf.py
 ```
 sudo add-apt-repository universe
 sudo apt-get install git python3-pip
-git clone https://www.github.com/threat9/routersploit
+git clone https://www.github.com/kilo-411/routersploit
 cd routersploit
 python3 -m pip install setuptools
 python3 -m pip install -r requirements.txt
@@ -69,7 +69,7 @@ python3 rsf.py
 ## Installation on OSX
 
 ```
-git clone https://www.github.com/threat9/routersploit
+git clone https://www.github.com/kilo-411/routersploit
 cd routersploit
 sudo python3 -m pip install -r requirements.txt
 python3 rsf.py
@@ -95,7 +95,7 @@ git pull
 
 # Build your own
 To our surprise people started to fork 
-[routersploit](https://github.com/threat9/routersploit) not because they were 
+[routersploit](https://github.com/kilo-411/routersploit) not because they were 
 interested in the security of embedded devices but simply because they want to 
 leverage our interactive shell logic and build their own tools using similar 
 concept. All these years they must have said: _"There must be a better way!"_ 
